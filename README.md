@@ -1,4 +1,4 @@
-This is the capstone project of Google Advanced Data Analytics Professional Certificate.
+This is the capstone project of professional certificate in Google Advanced Data Analytics.
 Project Name : Waze user churn analysis and prediction with Binary Classification model.
 For the public purpose, ataset is imported from kaggle. 
 Dataset path - '/kaggle/input/waze-dataset-to-predict-user-churn/waze_dataset.csv'
