@@ -8,12 +8,14 @@ Project Objectives are to understand the customer behvoiours by analyzing the da
 Two binary-classification models are developed. 
 Statistical Logistic Regression Model
 
+Logistic Regression model performance and Confusion Matrix
+
 <img width="564" height="197" alt="image" src="https://github.com/user-attachments/assets/1b8e0682-4a21-43ed-896a-86bd63e71f8f" />
 
 <img width="565" height="432" alt="image" src="https://github.com/user-attachments/assets/2729d2c8-4813-4dcd-aab4-7aec6ba4c87c" />
 
 XG Boost Model 
-Confusion Matrix values on training, validation and testing data
+Model performance Confusion Matrix values on training, validation and testing data
 
 <img width="527" height="166" alt="image" src="https://github.com/user-attachments/assets/05425875-9c05-4e03-85a0-0d2ded4a175d" />
 
